@@ -1,0 +1,4 @@
+package: nixos-go-service-example2
+import:
+
+- package: github.com/mattn/go-sqlite3
